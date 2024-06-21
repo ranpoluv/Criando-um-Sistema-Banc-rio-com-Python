@@ -1,8 +1,8 @@
-# Criando-um-Sistema-Banc-rio-com-Python
+# Criando-um-Sistema-Bancário-com-Python
 Criando um Sistema Bancário com Python (Projeto da DIO)
 # Projeto Criando um Sistema Bancário com Python da DIO
 ![Gif](https://i.pinimg.com/originals/5e/f6/85/5ef685bcdcb357c32701c15b722df28c.gif)
-- Projeto de uma criação de um sistema bancário com Python do professor Guilherme Arthur de Carvalho
+- Projeto para criar um sistema bancário com Python do professor Guilherme Arthur de Carvalho na plataforma DIO.
 
 ## Desafio
 - A pessoa foi contratada por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema deve-se implementar três operações: depósito, saque e extrato.
