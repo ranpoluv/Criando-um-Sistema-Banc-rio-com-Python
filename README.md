@@ -1,5 +1,4 @@
 # Projeto Criando um Sistema Bancário com Python da DIO
-![Gif](https://i.pinimg.com/originals/5e/f6/85/5ef685bcdcb357c32701c15b722df28c.gif)
 - Projeto para criar um sistema bancário com Python do professor Guilherme Arthur de Carvalho na plataforma DIO.
 
 ## Desafio
